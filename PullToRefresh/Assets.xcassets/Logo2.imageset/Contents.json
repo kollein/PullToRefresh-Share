@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Apple-iPhone-15-Pro-lineup-camera-system-230912_big.jpg.large_2x.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
